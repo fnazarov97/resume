@@ -71,7 +71,7 @@ header .about button{
 header .about button:hover{
 	background-color: #fd0;
 }
-header .img{
+header .img img{
 	width:100px;
 	hight:auto;
 }
