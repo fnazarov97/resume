@@ -71,15 +71,16 @@ header .about button{
 header .about button:hover{
 	background-color: #fd0;
 }
-header .img img{
-	width:100px;
-	hight:auto;
-}
 header .about .text{
 	display: flex;
 	justify-content: space-between;
 	flex-direction: column;
 
+}
+header .img img{
+	width: 250px;
+	height: 200px;
+	border-radius: 40%;
 }
 main .xabar {
 	width: 100%;
