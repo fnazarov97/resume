@@ -71,6 +71,10 @@ header .about button{
 header .about button:hover{
 	background-color: #fd0;
 }
+header .img{
+	width:243px;
+	hight:auto;
+}
 header .about .text{
 	display: flex;
 	justify-content: space-between;
